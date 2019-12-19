@@ -1647,3 +1647,171 @@ img {
 }
 }
 
+
+/* case study main page */
+
+
+.ty_btn.btn-learn {
+    display: inline-block;
+    font-size: 14px;
+    letter-spacing: 1px;
+    padding: 18px 35px;
+    text-transform: uppercase;
+    border-radius: 0;
+    font-weight: 700;
+    transition: all 0.5s ease;
+    border: 1px solid transparent;
+    background: linear-gradient(90deg, #f5634b 0%, #fe9418 100%);
+    color: #fff;
+  }
+
+
+  /* RetailCaseStudy */
+ 
+ 
+ .retail-heading{
+    color:black;
+    padding:  55px;
+    
+}
+.customer-heading{
+    font-size: 32px;
+    font-weight: 700;
+   
+}
+.results-heading,.tools{
+    font-size: 25px;
+    font-weight: 700;
+    color: white;
+}
+.customer,.tool-automation.col-md-6{
+    background-color: #404040;
+    color: white;
+    padding:  55px;
+}
+.results-image img{
+    
+    border-radius: 4px;
+    padding: 5px;
+}
+.platform-image{
+    border-radius: 4px;
+    padding: 5px;
+}
+.tools{
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.img-fluid{
+    max-width: 100%;
+  height: auto;
+}
+.row.main2{
+    background-color:  #ff9800 !important;
+  
+}
+.customer.col-md-6{
+  font-family: AkzidenzGroteskStd,sans-serif;
+    font-size: 18px;
+} 
+.telecom-customer{
+  line-height: 1.5;
+}
+
+
+/* retail2 */
+#solution{
+  font-weight: 200;
+}
+
+.mainheading h6{
+  font-size: 40px;
+  padding: 35px 65px;
+  color: #404040;
+  font-weight: 700;
+  text-transform: capitalize;
+}
+.row.main{
+  background-color: #ff9800 !important;
+  padding: 25px;
+  line-height: 1.0;
+ 
+ 
+}
+.col{
+  
+  color: #404040;
+    
+  padding:  55px;
+  
+}
+.customer-heading{
+  font-size: 32px;
+  font-weight: 700;
+}
+.results-heading{
+  font-size: 25px;
+  font-weight: 700;
+  padding: 0px;
+  color: #ff9800;
+}
+.row.results-tools{
+  background-color: #404040;
+  
+  padding:  55px;
+}
+.tools{
+  font-size: 25px;
+  font-weight: 700;
+  color: #ff9800;
+}
+
+.benifits{
+  font-size: 25px;
+  font-weight: 700;
+}
+.testspan{
+  font-size: 28px;
+  font-weight: 800;
+  color:  white;
+  background-color: #ff9800 !important;;
+  height: 60px;
+  width: 130px;
+  text-align: center;
+  padding-top: 10px;
+  font-variant-numeric: oldstyle-nums;  
+  
+}
+.platforms h1{
+  font-weight: 800;
+  color:  #ff9800 !important;
+}
+.effort h1{
+  font-weight: 800;
+  color:  #ff9800 !important;
+}
+table{
+  width: 70%;
+  color: white;
+  text-align: center;
+}
+.col-md-4.results{
+  text-align: center;
+}
+.testp{
+  background-color: gray;
+  height: 25px;
+  width: 130px;
+  text-align: center;
+}
+
+.test-cases{
+  padding: 8px;
+  right: 6px;
+  position: relative;
+ 
+}
+.results.customer{
+  line-height: 1;
+}
