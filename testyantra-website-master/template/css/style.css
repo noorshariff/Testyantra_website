@@ -1781,7 +1781,7 @@ th,tr{
 }
 
 
-#ty_heading-paragraph{
+/* #ty_heading-paragraph{
   margin-top: -168px;
 }
 #ty_telecom_heading-paragraph{
@@ -1789,9 +1789,9 @@ th,tr{
 }
 #ty_mobile_heading-paragraph{
   margin-top: -52px;
-}
+} */
 
-@media (max-width:414px){
+/* @media (max-width:414px){
   #ty_heading-paragraph{
     margin-top: -52px;
   }
@@ -1817,5 +1817,5 @@ th,tr{
   #ty_mobile_heading-paragraph{
     margin-top: -32px;
   }
-}
+} */
 
