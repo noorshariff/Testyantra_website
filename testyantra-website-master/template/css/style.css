@@ -1650,6 +1650,7 @@ img {
 
 /* case study main page */
 
+<<<<<<< HEAD
 #casestudycontainer{
   margin-top: 116px;
 }
@@ -1659,6 +1660,11 @@ img {
 #ty_heading_mobile{
   margin-top: -53px;
 }
+=======
+
+
+
+>>>>>>> 0b4dc0c83c05920abe67845233019626a8a9e09c
 
   /* RetailCaseStudy */
  
@@ -1787,6 +1793,7 @@ th,tr{
 }
 
 
+<<<<<<< HEAD
 
 /* telecom  */
 
@@ -1888,3 +1895,43 @@ table{
     margin-left: -29px;
   }
 }
+=======
+/* #ty_heading-paragraph{
+  margin-top: -168px;
+}
+#ty_telecom_heading-paragraph{
+  margin-top: -69px;
+}
+#ty_mobile_heading-paragraph{
+  margin-top: -52px;
+} */
+
+/* @media (max-width:414px){
+  #ty_heading-paragraph{
+    margin-top: -52px;
+  }
+  #ty_mobile_heading-paragraph{
+    margin-top: -32px;
+  }
+}
+
+
+@media (device-width:768px){
+  #ty_heading-paragraph{
+    margin-top: -52px;
+  }
+  #ty_mobile_heading-paragraph{
+    margin-top: -32px;
+  }
+}
+
+@media (device-width:1024px){
+  #ty_heading-paragraph{
+    margin-top: -52px;
+  }
+  #ty_mobile_heading-paragraph{
+    margin-top: -32px;
+  }
+} */
+
+>>>>>>> 0b4dc0c83c05920abe67845233019626a8a9e09c
