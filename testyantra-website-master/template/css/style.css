@@ -1647,3 +1647,244 @@ img {
 }
 }
 
+
+/* case study main page */
+
+#casestudycontainer{
+  margin-top: 116px;
+}
+#ty_heading{
+  margin-top: -64px;
+}
+#ty_heading_mobile{
+  margin-top: -53px;
+}
+
+  /* RetailCaseStudy */
+ 
+ 
+ .retail-heading{
+    color:black;
+    padding:  55px;
+    
+}
+.customer-heading{
+    font-size: 32px;
+    font-weight: 700;
+   
+}
+.results-heading,.tools{
+    font-size: 25px;
+    font-weight: 700;
+    color: white;
+}
+.customer,.tool-automation.col-md-6{
+    background-color: #404040;
+    color: white;
+    padding:  55px;
+}
+.results-image img{
+    
+    border-radius: 4px;
+    padding: 5px;
+}
+.platform-image{
+    border-radius: 4px;
+    padding: 5px;
+}
+.tools{
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.img-fluid{
+    max-width: 100%;
+  height: auto;
+}
+.row.main2{
+    background-color:  #ff9800 !important;
+  
+}
+.customer.col-md-6{
+  font-family: AkzidenzGroteskStd,sans-serif;
+    font-size: 18px;
+} 
+.telecom-customer{
+  line-height: 1.5;
+}
+
+
+/* retail2 */
+* {
+  min-height: 0;
+  min-width: 0;
+  font-family: 'Cambria', 'Cochin', Georgia, Times, 'Times New Roman', serif;
+  font-variant: normal;
+  font-style: normal;
+}
+/* Resets */
+hr {
+    margin-left: 0;
+    max-width: 120px;
+  }
+/* Bustom button */
+  .btn-primary {
+    background: #1096fc;
+    border: 0;
+  }
+  .btn-primary:hover {
+    background: #0384e5;
+  }
+  .mb-100{
+    margin-bottom:100px !important;
+  }
+
+  .testspan{
+    font-size: 28px;
+    font-weight: 800;
+    color:  white;
+    background-color: #ff9800 !important;;
+    padding: 10px;
+    text-align: center;
+    transition: 0.5s ease-in;
+      
+}
+
+.testp{
+  
+  height: 25px;
+  text-align: center;
+}
+.grey{
+   background-color: gray;
+   transition: 0.5s ease-in;
+}
+.white-text{
+  color:white !important;
+}
+.center{
+  text-align: center;
+}
+th,tr{
+  color:white;
+}
+.fnt-6{
+  font-weight: 600;
+}
+.mycard:hover .testspan{
+  background-color: grey !important;
+}
+.mycard:hover .grey{
+  background-color: #ff9800 !important;
+}
+
+/* On screens that are 600px wide or less, the background color is olive */
+@media screen and (max-width: 600px) {
+ 
+  .mb-100{
+    margin-bottom:5px !important;
+  }
+}
+
+
+
+/* telecom  */
+
+.mainheading h6{
+  font-size: 40px;
+  padding: 35px 65px;
+  color: #404040;
+  font-weight: 700;
+  text-transform: capitalize;
+}
+.row.main{
+  background-color: #ff9800 !important;
+  padding: 25px;
+ 
+}
+.col{
+  
+  color:black;
+  padding:  55px;
+  
+}
+.customer-heading{
+  font-size: 32px;
+  font-weight: 700;
+}
+.results-heading{
+  font-size: 25px;
+  font-weight: 700;
+  padding: 0px;
+  color: #ff9800 !important;
+}
+.row.results-tools{
+  background-color: #404040;
+  color: white;
+  padding:  55px;
+}
+.tools{
+  font-size: 25px;
+  font-weight: 700;
+  color: #ff9800 !important;
+}
+
+.benifits{
+  font-size: 25px;
+  font-weight: 700;
+}
+.testspan{
+  font-size: 28px;
+  font-weight: 800;
+  color:  white;
+  background-color: #ff9800 !important;;
+  height: 60px;
+  width: 130px;
+  text-align: center;
+  padding-top: 10px;
+  font-variant-numeric: oldstyle-nums;  
+  
+}
+.platforms h1{
+  font-weight: 800;
+  color:  #ff9800 !important;
+}
+.effort h1{
+  font-weight: 800;
+  color:  #ff9800 !important;
+}
+table{
+  width: 70%;
+}
+.col-md-4.results{
+  text-align: center;
+
+}
+.testp{
+  background-color: gray;
+  height: 25px;
+  width: 130px;
+  text-align: center;
+}
+
+.test-cases{
+  padding: 8px;
+  right: 6px;
+  position: relative;
+ 
+}
+#toolstech{
+     font-size: 18px;
+}
+#ptag{
+  margin-top:30px ;
+}
+
+@media screen and (max-width:768px){
+  #ptag{
+    margin-top:-106px ;
+  }
+  table{
+    margin-left: -29px;
+  }
+}
